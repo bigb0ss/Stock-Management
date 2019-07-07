@@ -1,4 +1,6 @@
 # Stock-Management
+View Demo : http://stock.ns2.playhosting.cf
+
 Stock Management System for Book Store
 
 The Application enables to maintain the stock in a book shop
